@@ -70,3 +70,6 @@ In summary, the design of quadcopters requires a comprehensive understanding of 
 
 ![Assembly](12.png)
 
+#### Main Body Stress Analysis:
+
+[Preview]()
