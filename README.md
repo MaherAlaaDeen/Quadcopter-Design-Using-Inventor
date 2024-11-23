@@ -72,5 +72,5 @@ In summary, the design of quadcopters requires a comprehensive understanding of 
 
 #### Main Body Stress Analysis:
 
-[Preview](https://github.com/MaherAlaaDeen/Quadcopter-Design-Using-Inventor/blob/main/QuadCopter%20Main%20Body.ipt%20Stress%20Analysis%20Report%204_28_2023.pdf)
-
+You can download the full report from This Repository.
+[Stress Analysis](https://github.com/MaherAlaaDeen/Quadcopter-Design-Using-Inventor/blob/main/QuadCopter%20Main%20Body.ipt%20Stress%20Analysis%20Report%204_28_2023.pdf)
